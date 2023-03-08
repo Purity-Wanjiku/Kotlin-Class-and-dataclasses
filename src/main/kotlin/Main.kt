@@ -59,5 +59,6 @@ data class Book(var author:String,var title:String,var pages:Int,var publishedYe
      fun nyj(){
          println("The book $title, is published in year $publishedYear")
      }
-
 }
+//NEW SERIES
+
